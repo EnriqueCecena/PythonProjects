@@ -1,1 +1,1 @@
-print('chanchito hola mundo')
+print('chanchito hola')
